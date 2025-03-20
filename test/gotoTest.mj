@@ -1,0 +1,16 @@
+
+program test301
+
+{
+	void main()	
+
+	int x;
+	
+	{
+	x=1;
+	goto labEnd
+	x=2;
+	labEnd:
+	print(x);
+	}
+}

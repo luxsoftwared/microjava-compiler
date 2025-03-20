@@ -1,0 +1,37 @@
+
+program MJProgram
+
+namespace Konstante{
+	const int nula = 0;
+	const int pet = 5;
+	{
+		int funkcija1(int parametar1, int parametarNiz[])
+		int x, y, funkcija1prom;
+		{}
+	}
+}
+	
+	const bool tacno = true;
+	const char slovo = 'r';
+	const int konst1 = 1, konst2 = 2;
+	
+	int promenljiva2;
+	int niz1[];
+	int prom3, niz2[],prom4 qq,niz3[],p5;
+	int promenljiva1 ab;
+{
+	int main(int parametar1, int parametarNiz[])
+	int x, y;
+	char jediniChar;
+	char p5;
+	{
+		x=5+3;
+		funkcija1prom=2;
+		p5='k';
+		print(3);
+	}
+	//ovo je comentar
+	int fja2(){}
+}	
+
+
